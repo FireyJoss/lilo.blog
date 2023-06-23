@@ -4,11 +4,13 @@ date = "2023-06-16"
 draft = true
 pinned = false
 +++
-```
 {{<lead>}}
-### In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
+
+In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
+
 {{<lead>}}
-```
+
+
 
 Von Timon Stalder und Christian Studer Datum Publikation 
 
@@ -22,32 +24,26 @@ Ich überquere den Altenbgsteg, biege nach links ab und folge dem Ufer der Aare.
 >
 > *\-Oliver Marti*
 
-```
 {{<box>}}
-#### Wer ist Oliver Marti? 
 
 „Romantisch, aggressiv, kreativ!“ So beschreibt der Jugendleiter und -trainer des Schachklubs Bern seinen Spielstil. Nebenbei spielt Oliver Marti in der 2. Mannschaft des Schachklubs und somit jeweils in der 1. Liga der schweizerischen Mannschaftsmeisterschaft und der schweizerischen Gruppenmeisterschaft. Zum Schachklub Bern, auch SK-Bern genannt, ist Marti durchs Gartenschach gekommen. Die Szene des Gartenschachs zeichnet sich dadurch aus, dass alle Spiele auf den grossen, öffentlichen Brettern ausgetragen werden. Marti war einer der begabtesten Spieler der bernischen Gartenschachszene. Deshalb wurde der Präsident des SK-Bern auf ihn aufmerksam. Bald darauf war er ein nicht mehr wegzudenkender Spieler für den Schachklub. Denn Marti ist einer der begabtesten Spieler seiner Mannschaft. Doch wie ist er zum Schach gekommen? Dafür muss man einen Zeitsprung in seine Kindheit machen.  
 
 Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er sich immer gewundert, wieso in seinem Schachset Pferdchen und Türme sind und wie sich all diese Figuren bewegen. So lernte er schon bald die Regeln des Spiels, welches heute seinen Beruf ausmacht. Beruflich ist Marti Geschäftsführer des Schweizerischen Schachbundes, Kassier der Bernischen Schachgemeinschaft und Vorstandsmitglied des Kantonal Bernischen Schachbundes. Man läge jedoch falsch, wenn man denken würde, dass dies alles ist. Neben seinen Berufen ist Marti bis zu viermal pro Woche im Schachklub Bern und spielt auch online immer wieder Schach. Mit seinem interessanten Spielstil, der viele Gambits, also bewusste Opfer von Bauern oder sogar Figuren in der Eröffnung beinhaltet, fährt er regelmässig schnelle Siege gegen unwissende Gegner ein. Trotzdem hat es ihm bis jetzt nicht zu einem Titel gereicht, da der Schweizerische Schachbund den Titel des Nationalen Meisters nicht verteilt.
+
 {{<box>}}
-```
-
-
 
 > „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
 >
 > *\-Oliver Marti*
 
-
-
 #### Austausch mit anderen Schachbegeisterten 
 
 Unterdessen fängt es langsam an zu dämmern. Nach und nach treffen immer mehr Turnierteilnehmende ein. Ein paar scheinen sich zu kennen, während andere anscheinend zum ersten Mal hier sind. Ich bin erleichtert, dass ich nicht der Einzige bin, der neu ist. Die Stimmung ist sehr entspannt und alle gehen nett und freundlich miteinander um. Ein paar der Teilnehmenden wärmen sich auf, indem sie schon einmal ein paar Partien spielen. Auch ich schliesse mich ihnen an und spiele im Voraus eine Runde Schach. Ein paar Teilnehmende unweit von mir diskutieren lauthals über ihr Eröffnungsrepertoire. Eine Schacheröffnung ist eine gewisse Abfolge von Zügen, die zu Beginn einer Partie gespielt wird. Diese Züge sind nicht zufällig, sondern sind von vielen Menschen und Computern analysiert worden und haben sich über die Jahre als die besten herausgestellt. Es gibt sehr viele Schacheröffnungen und jede hat ihre Vor- und Nachteile. Wenn man eine Eröffnung gut beherrscht, kann man sich schon zu Beginn des Spiels einen entscheidenden Vorteil verschaffen.  
 
-Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt jedoch auch andere, die anscheinend schon ihr ganzes Leben lang Schach spielen. Ich persönlich habe als Kind ab und zu Schach gespielt und habe vor ein paar Monaten wieder angefangen, aktiv mit meinen Kollegen zu spielen. An einem Turnier habe ich jedoch noch nie teilgenommen. Nachdem ich meine kurze Partie beendet habe, gehe ich auf ein paar Leute zu und spreche sie an. Schnell stelle ich fest, dass ich mich sehr gut mit ihnen verstehe. Während ich mit den anderen Teilnehmenden spreche, vergeht die Zeit wie im Fluge.  
+Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt jedoch auch andere, die anscheinend schon ihr ganzes Leben lang Schach spielen. Ich persönlich habe als Kind ab und zu Schach gespielt und habe vor ein paar Monaten wieder angefangen, aktiv mit meinen Kollegen zu spielen. An einem Turnier habe ich jedoch noch nie teilgenommen. Nachdem ich meine kurze Partie beendet habe, gehe ich auf ein paar Leute zu und spreche sie an. Schnell stelle ich fest, dass ich mich sehr gut mit ihnen verstehe. Während ich mit den anderen Teilnehmenden spreche, vergeht die Zeit wie im Fluge. 
 
-```
 {{<box>}}
+
 #### Interviewausschnitt
 
 Sie sind sehr engagiert in der Szene, wie ist das für Ihr Umfeld, also die Leute, die kein Schach spielen? Ist das manchmal ein bisschen nervig für die?  
@@ -57,8 +53,7 @@ Meine Familie kennt sich halt mehr mit Jassen, Schwingen und Skifahren aus. Da d
 Wenn Sie Ihren Spielstyl in drei Worten beschreiben müssten, was wären das für Worte?  
 
 Romantisch, aggressiv, kreativ. Ich bin nicht unbedingt ein klassischer Spieler. Ich suche jedoch klassische taktische Muster und kenne mich bei klassischen Partien gut aus, also bei Partien, die älter sind als 100 Jahre. Ich spiele viele Gambits, also Bauernopfer in der Eröffnung. Ich liebe es kreative Sachen zu spielen und scheue auch nicht davor zurück, dies gegen ganz starke Spieler zu tun. Ich habe auch einmal gegen den früheren Weltmeister Vladimir Kramnik in einer Partie ein sehr riskantes Gambit gespielt.
-{{<box>}}
-```
+{{<box>}} 
 
 #### Das Turnier 
 
