@@ -1,7 +1,7 @@
 +++
 title = "Das Spiel der Könige"
 date = "2023-06-16"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 +++
@@ -15,17 +15,19 @@ Von Timon Stalder und Christian Studer Datum Publikation 
 
 Angestrengt sitze ich mit gerunzelter Stirn an einem Schachbrett. Mein König steht mit dem Rücken zur Wand und es gibt keinen offensichtlichen Ausweg mehr. Ich weiss, dass diese Stellung nicht mehr zu retten ist, und trotzdem spiele ich noch weiter. Ich werfe einen Blick auf die Uhr. Es verbleiben mir noch fünfzig Sekunden. Ich schiebe meinen König ein Feld nach rechts. Wie sich herausstellt, ein fataler Fehler. Die gegnerische Dame schlägt meinen letzten Bauern und plötzlich blockieren meine eigenen Figuren den Fluchtweg meines Königs. Ich werfe meinen König um und gebe auf. Ein Schachmatt war nicht mehr zu verhindern. Ich reiche meinem Gegner die Hand und gratuliere ihm zum Sieg. Meine Hoffnungen auf den Turniersieg sind schon in der dritten Runde geplatzt.  
 
+![Vorderseite des Lokals des Schachklubs Bern (Bild: Timon Stalder) (Bern, 13.3.23)](aussenansicht_skb.jpg)
+
 #### Mein erster Eindruck 
 
 Ich überquere den Altenbgersteg, biege nach links ab und folge dem Ufer der Aare. Kurz darauf stehe ich vor einem einstöckigen, sehr langen Haus, das mich ein bisschen an einen Tierstall erinnert. Das Haus ist jedoch nicht Teil eines alten Bauernhofes, sondern verdankt seine Form der Kegelbahn, die sich früher darin befunden hat. Das Haus gehörte nämlich ursprünglich dem Kegelklub Bern. An einem Schild über dem Eingang kann man den jetzigen Besitzer ablesen. Dieses Lokal ist seit neustem im Besitz des Berner Schachklubs. 
 
-![Vorderseite des Lokals des Schachklubs Bern (Bild: Timon Stalder) (Bern, 13.3.23)](logo_skb.jpg)
+![Logo des Berner Schachklubs (Bild: Christian Studer)](logo_skb.jpg)
 
 Von aussen wirkt das Haus ein bisschen heruntergekommen. Nervös trete ich durch die Tür und bleibe überrascht stehen. Drinnen fühle ich mich wie in einer neuen Welt. Fein säuberlich sind in einer langen Reihe Schachbretter auf Tischen aufgestellt. An allen Wänden befinden sich Bilder und Poster über Schach. Im Eingang ist der Boden wie ein Schachbrett mit schwarzen und weissen Feldern gemustert. Von aussen kann man noch die Spuren einer kürzlichen Überschwemmung sehen, doch hier drinnen wirkt es, als hätte dieses Lokal seit Jahren keine schlechten Zeiten mehr erlebt. Ich werde von Oliver Marti, meinem Interviewpartner, begrüsst. Er bietet mir etwas zu trinken an. Mit einem Glas Holunderbeerensirup in der Hand werde ich von Marti durch das Lokal geführt. Die Inneneinrichtung des Lokals ist ungefähr so, wie ich es mir vorgestellt habe. An den Wänden hat es Regale voller Schachbücher und in einer Ecke steht ein riesiges Vorzeigebrett.
 
-![Spielbereich für das Turnier (Bild: Christian Studer) (Bern, 13.3.23)](tische_mit_brettern.jpg)
+![Inneneinrichtung des Lokals des SK-Bern (Bild: Timon Stalder) (Bern, 13.3.23)](bilder_an_wand.jpg)
 
- Was ich jedoch nicht erwartet habe, ist, dass sich hier nicht alles um Schach dreht. Denn hier wird viel mehr als nur Schach gespielt. Im hintersten Teil des Lokals hat es noch andere Spiele und in der Mitte all dieser Spiele steht ein Shogiset, ein Set des japanischen Schachs. Oliver Marti ist der Shogimeister hier im Schachklub. Schon bei der Erklärung der Figuren verstehe ich nichts mehr. Ich entscheide mich dazu, lieber beim Schach zu bleiben. Nach einer ausführlichen Tour durch das Lokal setzen wir uns in einer Ecke auf zwei Sofas und führen das geplante Interview durch. 
+Was ich jedoch nicht erwartet habe, ist, dass sich hier nicht alles um Schach dreht. Denn hier wird viel mehr als nur Schach gespielt. Im hintersten Teil des Lokals hat es noch andere Spiele und in der Mitte all dieser Spiele steht ein Shogiset, ein Set des japanischen Schachs. Oliver Marti ist der Shogimeister hier im Schachklub. Schon bei der Erklärung der Figuren verstehe ich nichts mehr. Ich entscheide mich dazu, lieber beim Schach zu bleiben. Nach einer ausführlichen Tour durch das Lokal setzen wir uns in einer Ecke auf zwei Sofas und führen das geplante Interview durch. 
 
 > „Romantisch, aggressiv, kreativ! So ist mein Spielstil“ 
 >
@@ -69,6 +71,10 @@ Romantisch, aggressiv, kreativ. Ich bin nicht unbedingt ein klassischer Spieler.
 #### Das Turnier 
 
 Plötzlich wird das laute Gerede der Turnierteilnehmer von einem Gong unterbrochen. Sofort werden alle still. Ein Mitglied des Schachklubs liest die ersten Spielpaarungen herunter. Ich wurde einem Schachbrett im hinteren Teil des Lokals zugewiesen, was bedeutet, dass ich gegen einen eher schlechteren Spieler antreten werde. Nervös setze ich mich hin. Während ich auf meinen Gegner warte, denke ich an Martis Tipps: „Lass dich nicht von der Schachuhr durcheinanderbringen. Denk daran, auf die Uhr zu drücken, und nimm dir die Zeit, die du brauchst. Es ist ein Amateurturnier, hier werden kleinste Zeitvorteile nicht so hart bestraft.“ Diese Tipps hat er mir am Ende des Interviews, das ich vor dem Turnier mit ihm geführt habe, auf den Weg gegeben. Endlich setzt sich mein Gegner auf die andere Seite des Brettes. Ich schüttle ihm die Hand und wir wünschen uns gegenseitig eine gute Partie. Ich spiele mit Weiss, was bedeutet, dass ich anfangen darf. Mein Gegner startet die Schachuhr und ich mache meinen ersten Zug. Ich spiele zum ersten Mal mit einer Schachuhr und bin deshalb zuerst ein bisschen verwirrt. Doch schon bald bemerke ich, dass es gar nicht so schwierig ist, mit einer Uhr zu spielen. Eine Schachuhr funktioniert so, dass beide Spieler zu Beginn eine gewisse Anzahl Zeit bekommen. Während man am Zug ist, läuft die eigene Zeit herunter. Sobald man seinen Zug gemacht hat, drückt man auf den Knopf und die Zeit des Gegners beginnt runterzuzählen. Hat ein Spieler keine Zeit mehr, hat er die Partie automatisch verloren. Das heisst, eine Partie kann durch Schachmatt oder durch das Auslaufen der Zeit enden.  
+
+![Spielbereich für das Turnier (Bild: Christian Studer) (Bern, 13.3.23)](tische_mit_brettern.jpg)
+
+
 
 Meine erste Partie verläuft sehr gut. Schon nach zehn Zügen kann ich die Dame meines Gegners schlagen und kurz danach setze ich ihn Matt. Nachdem wir uns die Hand gereicht haben, stehe ich auf und melde unser Resultat bei der Turnierleitung. Dann muss ich warten, bis alle Partien fertig sind und die neuen Paarungen vorgelesen werden. Während ich warte, schaue ich den anderen Turnierteilnehmern bei ihren Partien zu. So vergeht der Abend, Partie nach Partie. Einige gewinne ich und andere verliere ich. In einer Partie, auf die ich auch besonders stolz bin, kann ich sogar noch ein Remis herausholen, obwohl ich drei Bauern weniger hatte.  
 
