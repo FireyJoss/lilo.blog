@@ -21,7 +21,7 @@ Angestrengt sitze ich mit gerunzelter Stirn an einem Schachbrett. Mein König st
 
 Ich überquere den Altenbgersteg, biege nach links ab und folge dem Ufer der Aare. Kurz darauf stehe ich vor einem einstöckigen, sehr langen Haus, das mich ein bisschen an einen Tierstall erinnert. Das Haus ist jedoch nicht Teil eines alten Bauernhofes, sondern verdankt seine Form der Kegelbahn, die sich früher darin befunden hat. Das Haus gehörte nämlich ursprünglich dem Kegelklub Bern. An einem Schild über dem Eingang kann man den jetzigen Besitzer ablesen. Dieses Lokal ist seit neustem im Besitz des Berner Schachklubs. 
 
-![Logo des Berner Schachklubs (Bild: Christian Studer)](logo_skb.jpg)
+![Logo des Berner Schachklubs (Bild: Christian Studer)(Bern, 13.3.23)](logo_skb.jpg)
 
 Von aussen wirkt das Haus ein bisschen heruntergekommen. Nervös trete ich durch die Tür und bleibe überrascht stehen. Drinnen fühle ich mich wie in einer neuen Welt. Fein säuberlich sind in einer langen Reihe Schachbretter auf Tischen aufgestellt. An allen Wänden befinden sich Bilder und Poster über Schach. Im Eingang ist der Boden wie ein Schachbrett mit schwarzen und weissen Feldern gemustert. Von aussen kann man noch die Spuren einer kürzlichen Überschwemmung sehen, doch hier drinnen wirkt es, als hätte dieses Lokal seit Jahren keine schlechten Zeiten mehr erlebt. Ich werde von Oliver Marti, meinem Interviewpartner, begrüsst. Er bietet mir etwas zu trinken an. Mit einem Glas Holunderbeerensirup in der Hand werde ich von Marti durch das Lokal geführt. Die Inneneinrichtung des Lokals ist ungefähr so, wie ich es mir vorgestellt habe. An den Wänden hat es Regale voller Schachbücher und in einer Ecke steht ein riesiges Vorzeigebrett.
 
