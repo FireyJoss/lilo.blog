@@ -10,7 +10,7 @@ image = "tische_mit_brettern.jpg"
 
 In stark umkämpften Partien, bei denen jeder kleine Fehler über Sieg oder Niederlage entscheidet, spiele ich um den Sieg eines Turniers des Schachklubs Bern.
 
-{{<lead>}}
+{{</lead>}}
 
 Von Timon Stalder und Christian Studer Datum Publikation 
 
