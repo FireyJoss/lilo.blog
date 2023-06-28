@@ -32,7 +32,7 @@ Was ich jedoch nicht erwartet habe, ist, dass sich hier nicht alles um Schach dr
 
 > „Romantisch, aggressiv, kreativ! So ist mein Spielstil“ 
 >
-> *\-Oliver Marti*
+> *Oliver Marti*
 
 {{<box>}}
 
@@ -52,13 +52,13 @@ Unterdessen fängt es langsam an zu dämmern. Nach und nach treffen immer mehr T
 
 Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt jedoch auch andere, die anscheinend schon ihr ganzes Leben lang Schach spielen. Ich persönlich habe als Kind ab und zu Schach gespielt und habe vor ein paar Monaten wieder angefangen, aktiv mit meinen Kollegen zu spielen. An einem Turnier habe ich jedoch noch nie teilgenommen. Nachdem ich meine kurze Partie beendet habe, gehe ich auf ein paar Leute zu und spreche sie an. Schnell stelle ich fest, dass ich mich sehr gut mit ihnen verstehe. Während ich mit den anderen Teilnehmenden spreche, vergeht die Zeit wie im Fluge. 
 
-{{<box>}}
-
 
 
 > „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
 >
-> *\-Oliver Marti*
+> *Oliver Marti*
+
+{{<box>}}
 
 #### Auszug aus dem Interview mit Oliver Marti, Jugendtrainer beim Schachklub Bern
 
