@@ -46,10 +46,6 @@ Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er s
 
 {{</box>}}
 
-> „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
->
-> *\-Oliver Marti*
-
 #### Austausch mit anderen Schachbegeisterten 
 
 Unterdessen fängt es langsam an zu dämmern. Nach und nach treffen immer mehr Turnierteilnehmende ein. Ein paar scheinen sich zu kennen, während andere anscheinend zum ersten Mal hier sind. Ich bin erleichtert, dass ich nicht der Einzige bin, der neu ist. Die Stimmung ist sehr entspannt und alle gehen nett und freundlich miteinander um. Ein paar der Teilnehmenden wärmen sich auf, indem sie schon einmal ein paar Partien spielen. Auch ich schliesse mich ihnen an und spiele im Voraus eine Runde Schach. Ein paar Teilnehmende unweit von mir diskutieren lauthals über ihr Eröffnungsrepertoire. Eine Schacheröffnung ist eine gewisse Abfolge von Zügen, die zu Beginn einer Partie gespielt wird. Diese Züge sind nicht zufällig, sondern sind von vielen Menschen und Computern analysiert worden und haben sich über die Jahre als die besten herausgestellt. Es gibt sehr viele Schacheröffnungen und jede hat ihre Vor- und Nachteile. Wenn man eine Eröffnung gut beherrscht, kann man sich schon zu Beginn des Spiels einen entscheidenden Vorteil verschaffen.  
@@ -57,6 +53,12 @@ Unterdessen fängt es langsam an zu dämmern. Nach und nach treffen immer mehr T
 Wie ich schnell feststelle, sind ein paar der Gäste blutige Anfänger. Es gibt jedoch auch andere, die anscheinend schon ihr ganzes Leben lang Schach spielen. Ich persönlich habe als Kind ab und zu Schach gespielt und habe vor ein paar Monaten wieder angefangen, aktiv mit meinen Kollegen zu spielen. An einem Turnier habe ich jedoch noch nie teilgenommen. Nachdem ich meine kurze Partie beendet habe, gehe ich auf ein paar Leute zu und spreche sie an. Schnell stelle ich fest, dass ich mich sehr gut mit ihnen verstehe. Während ich mit den anderen Teilnehmenden spreche, vergeht die Zeit wie im Fluge. 
 
 {{<box>}}
+
+
+
+> „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
+>
+> *\-Oliver Marti*
 
 #### Auszug aus dem Interview mit Oliver Marti, Jugendtrainer beim Schachklub Bern
 
