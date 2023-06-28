@@ -46,8 +46,8 @@ Schon in jungen Jahren hat Marti ein eigenes Schachset besessen. Damals hat er s
 
 {{</box>}}
 
-„Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
-
+> „Gegen einen früheren Weltmeister habe ich ein sehr riskantes Gambit gespielt.“ 
+>
 > *\-Oliver Marti*
 
 #### Austausch mit anderen Schachbegeisterten 
