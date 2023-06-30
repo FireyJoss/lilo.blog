@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/pixel-art-sky.png"
+logo = "/media/pixel-art-sky.png"
+image = "/media/pixel-art-sky.png"
 color = "#5d9fbd"
 +++
