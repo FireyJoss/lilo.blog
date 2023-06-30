@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Christian Studer"
-image = ""
+image = "/media/pixel-art-sky.png"
 url = "/about/"
 +++
