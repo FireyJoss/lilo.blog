@@ -41,7 +41,7 @@ Da Woyzeck zum Tatzeitpunkt unter Schizophrenie litt, konnte er sein Handeln nic
 
 Da sowohl a. als auch b. zutreffen, würde Woyzeck in der heutigen Zeit wahrscheinlich in einer geschlossenen Abteilung untergebracht werden. Heute läge der Schwerpunkt somit nicht bei der Strafe, sondern beim Gewähren der benötigten Hilfe. Das heutige Gesetz setzt also ziemlich genau das um, was Büchner zu seiner Zeit mit «Woyzeck» aufzeigen wollte und am damaligen System kritisierte.
 
-{{<box Titel="Arbeitsprozess und Reflexion">}}
+{{<box title="Arbeitsprozess und Reflexion">}}
 
 Diesen Blogeintrag habe ich mit der Unterstützung von Generativer KI verfasst. Den Text an sich habe ich selbst geschrieben, ich verwendete jedoch ChatGPT, um mir bei gewissen Formulierungen zu helfen, welche mir schwerfielen. Zudem war ChatGPT sehr praktisch, um den Fall «Woyzeck» nach heutigem Gesetz zu beurteilen, da ich im Handumdrehen an die passenden Gesetzespassagen kam und diese nicht mühselig selbst heraussuchen musste. Meine Analyse des Falles basiert auf Fakten, die ich entweder aus Internetartikeln (Quellen) oder Notizen aus meinem Deutschunterricht entnommen habe. Das Schreiben dieses Textes hat mich persönlich noch einmal dazu gebracht, mich vertieft mit der Frage der Schuld auseinanderzusetzen. Erst dadurch wurde mir das volle Ausmass der Schuldfrage und deren Beantwortung bewusst. Das Schreiben dieses Textes hat mir somit geholfen, den im Deutschunterricht behandelten Stoff noch einmal für mich aufzuarbeiten und zu verinnerlichen.
 {{</box>}}
