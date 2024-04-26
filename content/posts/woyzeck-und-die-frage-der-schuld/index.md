@@ -32,6 +32,8 @@ Da Woyzeck zum Tatzeitpunkt unter Schizophrenie litt, konnte er sein Handeln nic
 >
 > a.
 >     der Täter ein Verbrechen oder Vergehen begangen hat, das mit seiner psychischen Störung in Zusammenhang steht; und
+>
+>
 > b.
 >     zu erwarten ist, dadurch lasse sich der Gefahr weiterer mit seiner psychischen Störung in Zusammenhang stehender Taten begegnen.
 
