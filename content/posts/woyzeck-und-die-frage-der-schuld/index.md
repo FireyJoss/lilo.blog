@@ -22,6 +22,8 @@ Bei Beurteilung des Falles mit heutigem Recht sticht sofort der folgende Artikel
 
 > **Art. 19 Schuldunfähigkeit und verminderte Schuldfähigkeit**
 > 1 War der Täter zur Zeit der Tat nicht fähig, das Unrecht seiner Tat einzusehen oder gemäss dieser Einsicht zu handeln, so ist er nicht strafbar.
+>
+>
 > 3 Es können indessen Massnahmen nach den Artikeln 59–61, 63, 64, 67, 67b und 67e getroffen werden.
 
 Da Woyzeck zum Tatzeitpunkt unter Schizophrenie litt, konnte er sein Handeln nicht reflektieren. Woyzeck ist also nicht strafbar, es können jedoch nach (Art 19. 3.) Massnahmen getroffen werden. Im Falle Woyzeck würde das wahrscheinlich auf (Art. 59. 1.) hinauslaufen.
