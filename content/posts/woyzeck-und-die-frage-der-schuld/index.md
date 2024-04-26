@@ -1,7 +1,7 @@
 +++
 title = "Woyzeck und die Frage der Schuld"
 date = "2024-04-20"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 image = "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flitteraturbanken.se%2Fdiktensmuseum%2Fwp-content%2Fuploads%2F2020%2F10%2FJohann_Christian_Woyzeck.jpg&sp=1713608979T8e06b222eef1d7a0508ba88648365c0c7ec8f7ba511ff77b1dd68dda2e928f60"
