@@ -1,7 +1,7 @@
 +++
 title = "Woyzeck und die Frage der Schuld"
 date = "2024-04-20"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Woyzeck"]
 image = "buchner_woyzeck.jpg"
