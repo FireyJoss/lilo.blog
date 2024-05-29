@@ -1,7 +1,7 @@
 +++
 title = "Aufarbeitung Kritisches Denken"
 date = "2023-12-18"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "KritischesDenken"]
 image = "kritischesdenken.png"
