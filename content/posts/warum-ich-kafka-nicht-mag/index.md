@@ -1,7 +1,7 @@
 +++
 title = "Warum ich Kafka nicht mag"
 date = "2024-05-25"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Kafka"]
 image = "max_brod.png"
